@@ -1,0 +1,35 @@
+{
+  "name": "Neon_Drift_128",
+  "bpm": 128,
+  "bars": 8,
+  "sample_rate": 44100,
+  "structure": {
+    "Loops": [
+      "Neon_Drift_128_drum_loop.wav",
+      "Neon_Drift_128_full_loop.wav"
+    ],
+    "Stems": [
+      "Neon_Drift_128_bass.wav",
+      "Neon_Drift_128_drums.wav",
+      "Neon_Drift_128_fx.wav",
+      "Neon_Drift_128_hook.wav",
+      "Neon_Drift_128_pad.wav",
+      "Neon_Drift_128_pulse.wav"
+    ],
+    "OneShots": [
+      "Neon_Drift_128_bass_stab.wav",
+      "Neon_Drift_128_fx_hit.wav",
+      "Neon_Drift_128_hat.wav",
+      "Neon_Drift_128_kick.wav",
+      "Neon_Drift_128_pad_chord.wav",
+      "Neon_Drift_128_snare.wav"
+    ]
+  },
+  "notes": [
+    "neutral distributable naming",
+    "seam-smoothed loop exports",
+    "deconstructed stems",
+    "one-shots included",
+    "no 'music gpt' wording in product files"
+  ]
+}

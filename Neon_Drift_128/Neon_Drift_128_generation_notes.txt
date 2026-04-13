@@ -1,0 +1,15 @@
+Neon_Drift_128
+BPM: 128
+Bars: 8
+Sample rate: 44100
+
+This kit includes:
+- full loop
+- drum loop
+- deconstructed stems
+- one-shots
+
+Export doctrine used:
+- smooth edges / reduced click risk
+- neutral naming for distribution
+- stems and one-shots kept separate for usability
