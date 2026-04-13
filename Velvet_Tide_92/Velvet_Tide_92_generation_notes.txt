@@ -1,0 +1,17 @@
+Velvet_Tide_92
+BPM: 92
+Bars: 8
+Sample rate: 48000
+
+Direction:
+- warm downtempo
+- organic pocket
+- soft keys / guitarish pluck / air layer
+- intentionally unlike the previous packs
+
+Included:
+- full loop
+- drum loop
+- deconstructed stems
+- one-shots
+- source metadata

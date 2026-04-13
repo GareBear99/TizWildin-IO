@@ -1,0 +1,30 @@
+{
+  "name": "Velvet_Tide_92",
+  "bpm": 92,
+  "bars": 8,
+  "sample_rate": 48000,
+  "design_goal": "completely different from the prior synthetic electronic packs: slower, warmer, organic, felt/air/pluck driven, downtempo pocket",
+  "exports": {
+    "loops": [
+      "Velvet_Tide_92_drum_loop.wav",
+      "Velvet_Tide_92_full_loop.wav"
+    ],
+    "stems": [
+      "Velvet_Tide_92_air.wav",
+      "Velvet_Tide_92_bass.wav",
+      "Velvet_Tide_92_drums.wav",
+      "Velvet_Tide_92_fx.wav",
+      "Velvet_Tide_92_guitarish.wav",
+      "Velvet_Tide_92_keys.wav"
+    ],
+    "one_shots": [
+      "Velvet_Tide_92_bass_stab.wav",
+      "Velvet_Tide_92_felt_chord.wav",
+      "Velvet_Tide_92_fx_bloom.wav",
+      "Velvet_Tide_92_hat.wav",
+      "Velvet_Tide_92_kick.wav",
+      "Velvet_Tide_92_shaker.wav",
+      "Velvet_Tide_92_snap.wav"
+    ]
+  }
+}
