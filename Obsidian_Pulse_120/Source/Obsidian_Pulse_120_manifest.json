@@ -1,0 +1,35 @@
+{
+  "name": "Obsidian_Pulse_120",
+  "bpm": 120,
+  "bars": 8,
+  "sample_rate": 44100,
+  "structure": {
+    "Loops": [
+      "Obsidian_Pulse_120_drum_loop.wav",
+      "Obsidian_Pulse_120_full_loop.wav"
+    ],
+    "Stems": [
+      "Obsidian_Pulse_120_arp.wav",
+      "Obsidian_Pulse_120_bass.wav",
+      "Obsidian_Pulse_120_drums.wav",
+      "Obsidian_Pulse_120_fx.wav",
+      "Obsidian_Pulse_120_lead.wav",
+      "Obsidian_Pulse_120_pad.wav"
+    ],
+    "OneShots": [
+      "Obsidian_Pulse_120_bass_stab.wav",
+      "Obsidian_Pulse_120_fx_hit.wav",
+      "Obsidian_Pulse_120_hat.wav",
+      "Obsidian_Pulse_120_kick.wav",
+      "Obsidian_Pulse_120_pad_chord.wav",
+      "Obsidian_Pulse_120_snare.wav"
+    ]
+  },
+  "notes": [
+    "neutral distributable naming",
+    "seam-smoothed loop exports",
+    "deconstructed stems",
+    "one-shots included",
+    "no 'music gpt' wording in product files"
+  ]
+}
