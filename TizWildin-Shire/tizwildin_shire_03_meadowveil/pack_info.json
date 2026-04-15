@@ -1,0 +1,19 @@
+{
+  "title": "TizWildin Shire 03 Meadowveil",
+  "sample_rate": 48000,
+  "bpm": 84,
+  "identity": "organic / airy / pastoral / bell-choir cinematic",
+  "anti_click_measures": [
+    "per-note fades",
+    "longer release tails",
+    "macro intro/outro fades",
+    "final master edge fade"
+  ],
+  "tracks": [
+    "choir",
+    "lead_flute",
+    "bells",
+    "pizz",
+    "bass"
+  ]
+}
