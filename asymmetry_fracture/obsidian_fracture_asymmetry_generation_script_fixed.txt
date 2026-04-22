@@ -1,0 +1,5 @@
+Updated generation guidance for smooth exports:
+- apply per-note micro fades (3-6 ms)
+- avoid zero-release hard cuts
+- DC block before export
+- add edge fades on final render

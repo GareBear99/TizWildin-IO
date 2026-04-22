@@ -1,0 +1,30 @@
+{
+  "project": "Lovers In The Neon",
+  "meta": {
+    "sample_rate": 44100,
+    "bpm": 90,
+    "key": "G major",
+    "bars": 8,
+    "time_signature": "4/4",
+    "version": "clean_room_rebuild_v1"
+  },
+  "source_truth": "Original exact generation script is not recoverable from rendered WAV alone.",
+  "rebuild_doctrine": [
+    "preserve uploaded source renders",
+    "derive usable loops and recovery stems",
+    "include honest clean-room rebuild state",
+    "keep package JSON-backed and editable"
+  ],
+  "one_shots": [
+    "kick",
+    "snare",
+    "hat_closed",
+    "hat_open",
+    "clap",
+    "bass_G2",
+    "bass_D3",
+    "bell_G5",
+    "bell_B4",
+    "pad_Gmaj7_hit"
+  ]
+}
